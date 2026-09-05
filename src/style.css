@@ -1,0 +1,7 @@
+/* Loaded cross-origin when the CDN prefix is on, so it also proves CORS. */
+:root { color-scheme: light dark; font-family: ui-sans-serif, system-ui, sans-serif; }
+body { margin: 0; display: grid; place-items: center; min-height: 100vh; }
+main { max-width: 34rem; padding: 2rem; border: 3px solid #d6336c; border-radius: 12px; background: #fff0f6; color: #1a1a1a; }
+h1 { margin-top: 0; }
+code { background: #ffdeeb; padding: 0.1em 0.35em; border-radius: 4px; }
+.hint { color: #555; font-size: 0.95rem; }
